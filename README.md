@@ -1,0 +1,27 @@
+<p class="flex justify-center">
+  <a href="https://sigmalab.co.uk" target="_blank">
+    <img src="https://sigmalab.co.uk/_files/svg/sigmalab-logo-02.svg" width="400" alt="Sigmalab Logo" >
+  </a>
+</p>
+
+<h1 class="text-3xl">About this <span class="italic">Skeleton</span></h1>
+
+<p>This skeleton is based on:</p>
+
+<ul class="list-inside list-disc">
+  <li><a href="https://tailwindcss.com/">Tailwind CSS</a></li>
+  <li><a href="https://alpinejs.dev/">AlpineJS</a></li>
+  <li>anything you need for your web project...</li>
+</ul>
+
+<h1 class="text-3xl">License</h1>
+
+<p>This skeleton is open-sourced cpde licensed under the <a href="https://opensource.org/licenses/MIT" class="font-bold">MIT license</a>.</p>
+
+<h1 class="text-3xl">Author</h1>
+
+<p>
+  <a href="https://corsentino.net/" class="font-bold">Kiko Corsentino</a> is a digital entrepreneur and an ICT Consultant who loves building products and transforming business ideas into companies. He is an advisor for new start up projects.
+</p>
+
+<p class="text-sm text-center">Made with <span class="text-red-600">&hearts;</span> in <a href="https://sigmalab.co.uk">Sigmalab Ltd</a></p>  
